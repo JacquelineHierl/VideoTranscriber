@@ -15,7 +15,7 @@ In order to start the script, run GUI.py. Alternativly, you can simply download 
 The Video Transcriber enable to select an input-path for MP4 Video selection, multiple-video selection is supported.
 
 You need to select es well the target folder for the transcribed txt file.
-After selection of Video Files and Target Folder, teh Start Transcription is possible.
+After selection of Video Files and Target Folder, "Start Transcription" is possible.
 Logging of the current Status is possible only if you running via console.
 
 The applicaton supports currently only german Videos, feel free to contribute for another language-set.
