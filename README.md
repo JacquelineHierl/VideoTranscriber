@@ -11,9 +11,8 @@ running on Python Version 3.8
 - logging
 
 Usage
-In order to start the script, run GUI.py. Alternativly, you can simply download the application VideoTranscriberApp.exe for Windows-Usage.
-The Video Transcriber enable to select an input-path for MP4 Video selection, multiple-video selection is supported.
-
+In order to start the script, run GUI.py.
+The Video Transcriber enables to select an input-path for MP4-video selection, multiple-video selection is supported.
 You need to select es well the target folder for the transcribed txt file.
 After selection of Video Files and Target Folder, "Start Transcription" is possible.
 Logging of the current Status is possible only if you running via console.
